@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ChaitanyaYuvrajPatil
-- 👀 I’m interested in ML, Web development
+- 👀 I’m interested in ML,Data Science Web development
 - 🌱 I’m currently learning BTech Computer Science and Engneering at SGGS IE&T,Nanded
 
 <!---
