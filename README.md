@@ -8,7 +8,7 @@
 ![](https://img.shields.io/badge/Code-Cpp-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Frontend-ReactJS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Data Analytics-PowerBI-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/DataAnalytics-PowerBI-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 <img align="right" alt="Coding" width="400" src="https://coddy.in/img/boy_coddy.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaitanyayuvrajpatil&label=Profile%20views&color=0e75b6&style=flat" alt="chaitanyayuvrajpatil" /> </p>
