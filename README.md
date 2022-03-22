@@ -1,6 +1,6 @@
 [![MasterHead](https://www.codingvilla.in/wp-content/uploads/2019/11/baner3.jpg)](https://github.com/ChaitanyaYuvrajPatil/)
 <h1 align="center">Hi 👋, I'm Chaitnaya</h1>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=${ChaitanyaYuvrajPatil})
+
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
