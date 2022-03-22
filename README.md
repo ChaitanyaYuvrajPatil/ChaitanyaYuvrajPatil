@@ -2,13 +2,7 @@
 <h1 align="center">Hi 👋, I'm Chaitnaya</h1>
 <img align="right" alt="Coding" width="400" src="https://coddy.in/img/boy_coddy.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaitanyayuvrajpatil&label=Profile%20views&color=0e75b6&style=flat" alt="chaitanyayuvrajpatil" /> </p>
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Frontend-ReactJS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Data Analytics-PowerBI-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -32,3 +26,18 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chaitanyayuvrajpatil&show_icons=true&locale=en" alt="chaitanyayuvrajpatil" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chaitanyayuvrajpatil&" alt="chaitanyayuvrajpatil" /></p>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=chaitanyayuvrajpatil&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
+<table>
+		<tr>
+			<td>
+				<img width="100%" height="auto" src="https://activity-graph.herokuapp.com/graph?username=chaitanyayuvrajpatil&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true" alt="Daily Contribution Graph" />
+			</td>
+		</tr>
+		<tr colspan="2">
+			<td>
+				<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chaitanyayuvrajpatil&theme=monokai"  width="100%" height="auto"  alt="Monthly Contribution Graph" >
+			</td>
+		</tr>
+	</table>
