@@ -24,6 +24,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/chaitanya patil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chaitanya patil" height="30" width="40" /></a>
 <a href="https://instagram.com/chaitu27112001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chaitu27112001" height="30" width="40" /></a>
+	<a href = https://github.com/chaitanyayuvrajpatil target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg "Chaitanya Patil" height='45' weight='45' /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
