@@ -25,6 +25,8 @@
 <a href="https://www.linkedin.com/in/chaitanya-patil-3508a021a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chaitanya patil" height="30" width="40" /></a>
 <a href="https://instagram.com/chaitu27112001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chaitu27112001" height="30" width="40" /></a>
 <a href="https://github.com/chaitu27112001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="chaitu27112001" height="30" width="40" /></a>
+<a href="https://leetcode.com/cpatil27112001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/tejas_2701/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/ramsiya/practice/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/tejasghodkhande2907/profile" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
