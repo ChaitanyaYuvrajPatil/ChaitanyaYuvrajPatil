@@ -23,7 +23,7 @@
 const chaitanya = {
     location: "Pune, India 🇮🇳",
     role: "Software Engineer @ Travelx.ai",
-    experience: "2.7+ years",
+    experience: "3+ years",
     education: "B.Tech in Computer Science (GPA: 8.5/10)",
     
     expertise: [
@@ -56,7 +56,7 @@ const chaitanya = {
 
 | 💼 Experience | 🏆 Achievements | 🌟 Focus |
 |:-------------:|:---------------:|:--------:|
-| 2.7+ Years | Hackathon Winner  | Performance & UX |
+| 3+ Years | Hackathon Winner  | Performance & UX |
 
 </div>
 
